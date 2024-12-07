@@ -1,5 +1,5 @@
 opensearch-auth:
-  domain_endpoint: "{opensearch_domain_endpoint}"
+  domain_endpoint: "https://search-rag-hol-gen-ai-workshop-ufxejvnxnnvkj2fyj2ze4mjrdi.us-west-2.es.amazonaws.com"
   user_id: "raguser"
   user_password: "MarsEarth1!"
 
